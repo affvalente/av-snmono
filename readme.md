@@ -1,5 +1,5 @@
 # monospace
----
+
 >
 > layered monospace theme for the standard notes
 
@@ -14,3 +14,7 @@
 ```txt
 https://0xdhrv.github.io/sn-mono/ext.json
 ```
+
+## credits
+
+based on https://github.com/danielnetop/markdown-monospace
