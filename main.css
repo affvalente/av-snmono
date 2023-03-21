@@ -11,6 +11,10 @@ body,
   font-family:  'JetBrains Mono', monospace !important;
 }
 
+.k-button-icon, .k-icon {
+  font-family:  'WebComponentsIcons', monospace !important;
+}
+
 .CodeMirror .CodeMirror-code .cm-comment {
   font-size: 100% !important;
 }
