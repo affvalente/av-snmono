@@ -4,11 +4,13 @@
 #editor,
 .CodeMirror .CodeMirror-code .cm-comment {
   font-family:  'JetBrains Mono', monospace !important;
+  font-weight: 400 !important;
 }
 html,
 body,
 * {
   font-family:  'JetBrains Mono', monospace !important;
+  font-weight: 400 !important;
 }
 
 .k-button-icon, .k-icon {
