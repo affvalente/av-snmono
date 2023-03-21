@@ -1,0 +1,2 @@
+mono ~ for standard notes
+---

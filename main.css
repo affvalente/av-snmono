@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+
+.CodeMirror-code,
+#editor,
+.CodeMirror .CodeMirror-code .cm-comment {
+  font-family:  'JetBrains Mono', monospace !important;
+}
+html,
+body,
+* {
+  font-family:  'JetBrains Mono', monospace !important;
+}
+
+.CodeMirror .CodeMirror-code .cm-comment {
+  font-size: 100% !important;
+}

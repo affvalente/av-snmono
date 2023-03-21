@@ -1,0 +1,17 @@
+---
+metatype: json
+---
+
+{
+  "identifier": "io.github.0xdhrv.sn-mono",
+  "name": "Monospace",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "0.0.1",
+  "description": "Monospace font for Standard Notes editors",
+  "url": "https://0xdhrv.github.io/sn-mono/main.css",
+  "download_url": "https://github.com/0xdhrv/sn-mono/archive/refs/tags/0.0.1.zip",
+  "latest_url": "https://0xdhrv.github.io/sn-mono/ext.json",
+  "marketing_url": "https://github.com/0xdhrv/sn-mono",
+  "layerable": true
+}
