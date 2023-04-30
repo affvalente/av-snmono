@@ -3,13 +3,13 @@
 .CodeMirror-code,
 #editor,
 .CodeMirror .CodeMirror-code .cm-comment {
-  font-family:  'JetBrains Mono', monospace !important;
+  font-family:  'Berkeley Mono', 'JetBrains Mono', monospace !important;
   font-weight: 400 !important;
 }
 html,
 body,
 * {
-  font-family:  'JetBrains Mono', monospace !important;
+  font-family:  'Berkeley Mono', 'JetBrains Mono', monospace !important;
   font-weight: 400 !important;
 }
 
