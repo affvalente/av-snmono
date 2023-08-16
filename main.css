@@ -6,6 +6,14 @@
   --sn-stylekit-monospace-font: 'JetBrains Mono', monospace;
 }
 
+body {
+  font-family: 'Inter var',  -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-feature-settings: "onum","kern","liga","clig","calt";
+  -webkit-text-size-adjust: none;
+}
+
 .CodeMirror-code,
 #editor,
 .CodeMirror .CodeMirror-code .cm-comment {
