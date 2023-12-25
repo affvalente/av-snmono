@@ -1,17 +1,12 @@
----
-metatype: json
----
-
 {
-  "identifier": "io.github.0xdhrv.sn-mono",
-  "name": "Monospace",
+  "identifier": "com.githubandre.av-snmono",
+  "name": "AV Inter",
   "content_type": "SN|Theme",
   "area": "themes",
-  "version": "0.0.1",
-  "description": "Monospace font for Standard Notes editors",
-  "url": "https://0xdhrv.github.io/sn-mono/main.css",
-  "download_url": "https://github.com/0xdhrv/sn-mono/archive/refs/tags/0.0.1.zip",
-  "latest_url": "https://0xdhrv.github.io/sn-mono/ext.json",
-  "marketing_url": "https://github.com/0xdhrv/sn-mono",
+  "version": "1.1",
+  "description": "Inter typeface (monospace) theme for Standard Notes",
+  "url": "https://cdn.jsdelivr.net/gh/affvalente/av-snmono@master/main.css",
+  "download_url": "https://github.com/affvalente/av-snmono/archive/refs/heads/main.zip",
+  "latest_url": "https://cdn.jsdelivr.net/gh/affvalente/av-snmono@master/ext.json",
   "layerable": true
 }
