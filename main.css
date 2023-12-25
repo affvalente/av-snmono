@@ -1,9 +1,7 @@
 @import url('https://rsms.me/inter/inter.css');
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
 
 :root {
   --sn-stylekit-sans-serif-font: 'Inter var', -apple-system, san-serif;
-  --sn-stylekit-monospace-font: 'JetBrains Mono', monospace;
 }
 
 body {
@@ -12,19 +10,4 @@ body {
   -moz-osx-font-smoothing: grayscale;
   font-feature-settings: "onum","kern","liga","clig","calt";
   -webkit-text-size-adjust: none;
-}
-
-.CodeMirror-code,
-#editor,
-.CodeMirror .CodeMirror-code .cm-comment {
-  font-family:  'JetBrains Mono', monospace !important;
-  font-weight: 400 !important;
-}
-
-.k-button-icon, .k-icon {
-  font-family:  'WebComponentsIcons', monospace !important;
-}
-
-.CodeMirror .CodeMirror-code .cm-comment {
-  font-size: 100% !important;
 }
