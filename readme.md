@@ -1,8 +1,8 @@
-# monospace
+# Inter typeface (monospace)
 
-Layerable Inter typefsce (monospace) theme for the standard notes
+Layerable Inter typeface (monospace) theme for Standard Notes
 
-## installation
+## Installation
 
 1. standard notes Settings
 2. open Preferences -> General -> Advanced Settings
@@ -11,10 +11,10 @@ Layerable Inter typefsce (monospace) theme for the standard notes
 5. click Install
 
 ```txt
-https://0xdhrv.github.io/sn-mono/ext.json
+https://cdn.jsdelivr.net/gh/affvalente/av-snmono@master/ext.json
 ```
 
-## credits
+## Credits
 
 Based on https://github.com/danielnetop/markdown-monospace
 
