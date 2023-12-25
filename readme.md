@@ -17,4 +17,5 @@ https://0xdhrv.github.io/sn-mono/ext.json
 ## credits
 
 Based on https://github.com/danielnetop/markdown-monospace
+
 Forked and simplified from https://github.com/0xdhrv/sn-mono
