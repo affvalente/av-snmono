@@ -1,7 +1,6 @@
 # monospace
 
->
-> layered monospace theme for the standard notes
+Layerable Inter typefsce (monospace) theme for the standard notes
 
 ## installation
 
@@ -17,4 +16,5 @@ https://0xdhrv.github.io/sn-mono/ext.json
 
 ## credits
 
-based on https://github.com/danielnetop/markdown-monospace
+Based on https://github.com/danielnetop/markdown-monospace
+Forked and simplified from https://github.com/0xdhrv/sn-mono
